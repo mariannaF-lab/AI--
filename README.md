@@ -1,7 +1,7 @@
 ```markdown
 # Проект: ИИ-ассистент для базы отдыха "Верхово"
 ссылка на проект @bazaotycha_S_bot
-
+https://github.com/mariannaF-lab/AI--/blob/
 
 ## Описание проекта
 
